@@ -10,7 +10,6 @@ public class SmallestDifference {
 	
 	int[] result = smallDifference(array1, array2);
     System.out.println("Menor diferença entre: " + result[0] + " e " + result[1]);
-
 	}
 		
 	// Força bruta
